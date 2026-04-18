@@ -54,7 +54,7 @@ public class Canvas implements MouseMotionListener {
             }
         });
 
-        // ----------- TOOLBAR -------------
+       // Added toolbar improvement
         toolBar = new JPanel();
         toolBar.setBounds(30, 30, 240, 600);
         toolBar.setBackground(Color.white);
